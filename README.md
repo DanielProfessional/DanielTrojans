@@ -13,7 +13,7 @@ I mean, it's self-explainatory the name.
 -------------------------------------------------------------------------------------------
 
 ***DanielMEMZ.exe***
-Just a very simple MEMZ remake.
+Just a very simple MEMZ remake. (It sucks, trust me.)
 
 **V1:** [Download](https://github.com/DanielProfessional/DanielTrojans/raw/main/assets%20(do%20not%20touch)/trojans/DanielMEMZ/DanielMEMZ.exe)
 
