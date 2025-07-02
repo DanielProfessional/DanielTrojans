@@ -3,6 +3,8 @@ Here you can download some old malware i made.
 
 **WARNING: I AM NOT RESPONSABLE FOR ANY DAMAGES CAUSED ON YOUR SYSTEM, TRY IT AT YOUR OWN RISK!**
 
+(PS: These stuff are __old as hell__ but I didn't mind keeping them. *You've been warned*)
+
 -------------------------------------------------------------------------------------------
 
 ***NotAlive.exe***
